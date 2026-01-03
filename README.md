@@ -230,7 +230,7 @@ Hi, I'm Rash, currently a video game student with extensive experience and a str
 My goal is to express emotions and connect with others through various art forms, such as photography, music, and storytelling, both in video games and in audiovisual or performing arts projects.
 
 <div>
-    Puedes saber más sobre mi o sobre mi trayectora en
+    Know more about me or my projects in my
     <a href="https://www.linkedin.com/in/rashriamoros/">
         LinkedIn.
     </a>
