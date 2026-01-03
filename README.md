@@ -237,7 +237,7 @@ My goal is to express emotions and connect with others through various art forms
 </div>
 </br>
 
-### Herramientas
+### Tools
 <div align="center">
     <table align="center">
         <tr>
@@ -280,7 +280,7 @@ My goal is to express emotions and connect with others through various art forms
 </div>
 </br>
 
-### Proyectos
+### Projects
 
 </br>
 <table align="center" width="100%">
